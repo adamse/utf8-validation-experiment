@@ -1,0 +1,3 @@
+[submodule "validateutf8-experiments"]
+	path = validateutf8-experiments
+	url = https://github.com/lemire/validateutf8-experiments
